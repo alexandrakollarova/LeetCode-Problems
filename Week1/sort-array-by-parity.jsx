@@ -1,7 +1,3 @@
-/**
- * @param {number[]} A
- * @return {number[]}
- */
 var sortArrayByParity = function(A) {
     const copyA = []
     const copyB = []
